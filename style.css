@@ -34,7 +34,7 @@ body{
     margin-top: 10px;
     background-color: #252A34;
     padding-left: 10px;
-    color: #CDB0F7;
+    color: #CBD0F7;
     border: none;
     height: 45px;
     outline: none;
@@ -47,7 +47,7 @@ body{
 }
 
 input::placeholder{
-    color: #CDB0F7;
+    color: #CBD0F7;
     font-size: 14px;
 }
 
@@ -61,7 +61,7 @@ form [type="submit"]{
 }
 
 p{
-    color: #CDB0F7;
+    color: ##CBD0F7;
 }
 
 a{
